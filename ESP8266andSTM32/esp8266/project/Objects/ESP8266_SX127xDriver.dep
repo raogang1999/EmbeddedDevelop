@@ -1,0 +1,393 @@
+Dependencies for Project 'ESP8266', Target 'SX127xDriver': (DO NOT MODIFY !)
+F (..\CORE\core_cm3.c)(0x5E547126)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\core_cm3.o --omf_browse .\objects\core_cm3.crf --depend .\objects\core_cm3.d)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+F (..\CORE\startup_stm32f10x_md.s)(0x5DA19209)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 526" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (..\main\stm32f10x_it.c)(0x5DF83679)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_it.o --omf_browse .\objects\stm32f10x_it.crf --depend .\objects\stm32f10x_it.d)
+I (..\main\stm32f10x_it.h)(0x5DA19209)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+F (..\main\system_stm32f10x.c)(0x5DA19209)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+F (..\main\main.c)(0x5E576D3B)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (..\device\inc\delay.h)(0x5E5367B7)
+I (..\device\inc\usart.h)(0x5EC0A4B9)
+I (..\device\inc\esp8266.h)(0x5EBBC006)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x599EDB3E)
+I (..\device\inc\tcp.h)(0x5EBB861F)
+I (..\device\inc\mqtt.h)(0x5EBBB7EE)
+I (..\main\stm32f10x_it.h)(0x5DA19209)
+F (..\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x5DA19209)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_rcc.o --omf_browse .\objects\stm32f10x_rcc.crf --depend .\objects\stm32f10x_rcc.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+F (..\STM32F10x_FWLib\src\misc.c)(0x5DA19209)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\misc.o --omf_browse .\objects\misc.crf --depend .\objects\misc.d)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x5DA19209)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+F (..\STM32F10x_FWLib\src\stm32f10x_usart.c)(0x5DA19209)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\stm32f10x_usart.o --omf_browse .\objects\stm32f10x_usart.crf --depend .\objects\stm32f10x_usart.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+F (..\device\src\delay.c)(0x5E536AD6)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (..\device\inc\delay.h)(0x5E5367B7)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+F (..\device\src\usart.c)(0x5EC0A48F)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\usart.o --omf_browse .\objects\usart.crf --depend .\objects\usart.d)
+I (..\device\inc\usart.h)(0x5EC0A4B9)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (..\device\inc\esp8266.h)(0x5EBBC006)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x599EDB3E)
+I (..\device\inc\tcp.h)(0x5EBB861F)
+I (..\device\inc\mqtt.h)(0x5EBBB7EE)
+F (..\device\src\esp8266.c)(0x5EBF3174)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\esp8266.o --omf_browse .\objects\esp8266.crf --depend .\objects\esp8266.d)
+I (..\device\inc\esp8266.h)(0x5EBBC006)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x599EDB3E)
+I (..\device\inc\usart.h)(0x5EC0A4B9)
+I (..\device\inc\tcp.h)(0x5EBB861F)
+I (..\device\inc\mqtt.h)(0x5EBBB7EE)
+I (..\device\inc\delay.h)(0x5E5367B7)
+I (D:\Keil\ARM\ARMCC\include\stdarg.h)(0x599EDB3A)
+F (..\device\src\tcp.c)(0x5E576AAB)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\tcp.o --omf_browse .\objects\tcp.crf --depend .\objects\tcp.d)
+I (..\device\inc\tcp.h)(0x5EBB861F)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+I (..\device\inc\usart.h)(0x5EC0A4B9)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (..\device\inc\esp8266.h)(0x5EBBC006)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x599EDB3E)
+I (..\device\inc\mqtt.h)(0x5EBBB7EE)
+I (..\device\inc\delay.h)(0x5E5367B7)
+F (..\device\src\mqtt.c)(0x5EBBC562)(--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\main -I ..\STM32F10x_FWLib\inc -I ..\SX127X -I ..\CORE -I ..\device\inc-I.\RTE\_SX127xDriver-ID:\Keil\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-ID:\Keil\ARM\CMSIS\Include-D__UVISION_VERSION="526" -DSTM32F10X_MD -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER-o .\objects\mqtt.o --omf_browse .\objects\mqtt.crf --depend .\objects\mqtt.d)
+I (..\device\inc\mqtt.h)(0x5EBBB7EE)
+I (..\main\stm32f10x.h)(0x5DA19209)
+I (..\CORE\core_cm3.h)(0x5DA19209)
+I (D:\Keil\ARM\ARMCC\include\stdint.h)(0x599EDB3E)
+I (..\main\system_stm32f10x.h)(0x5DA19209)
+I (..\main\stm32f10x_conf.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_bkp.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_can.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_cec.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_crc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dac.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_dma.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_exti.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_flash.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_i2c.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_pwr.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rtc.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_sdio.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_spi.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h)(0x5DA19209)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5DA19209)
+I (..\device\inc\esp8266.h)(0x5EBBC006)
+I (D:\Keil\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (D:\Keil\ARM\ARMCC\include\stdbool.h)(0x599EDB3E)
+I (..\device\inc\delay.h)(0x5E5367B7)
