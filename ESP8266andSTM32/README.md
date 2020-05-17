@@ -10,3 +10,9 @@
 + ESP8266 发送给STM32的信息可以通过 device/src/usart.c 的 USART2_IRQHandler(void) 的 if( USART_GetITStatus( USART2, USART_IT_IDLE ) != RESET )来处理收到的消息
 + 需要修改三元组和wifi信息，在mqtt.h中
 + 连接操作在mqtt.c中，主题定阅可在这里进行
+
+
+## 资料中包括
++ AT指令手册
++ ESP8266系列模块使用手册
++ mqtt固件
